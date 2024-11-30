@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Haridwar<br><br>- 📚 I'm currently learning Selenium<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing,  Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kartiksharma200-git-ui<br>-📫 Feel free to reach me at Kartikgautam1106@gmail.com<br>-📄 Know about my experiences Resume</p>
+<p align="left">I'm ... from ....Bidar<br><br>- 📚 I'm currently learning Selenium<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing,  Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kartiksharma200-git-ui<br>-📫 Feel free to reach me at Kartikgautam1106@gmail.com<br>-📄 Know about my experiences Resume</p>
 
 ###
 
