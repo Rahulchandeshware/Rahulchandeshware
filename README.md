@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Bidar<br><br>- 📚 I'm currently learning Selenium<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing,  Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kartiksharma200-git-ui<br>-📫 Feel free to reach me at Kartikgautam1106@gmail.com<br>-📄 Know about my experiences Resume</p>
+<p align="left">I'm ... from ....Bidar<br><br>- 📚 I'm currently learning Selenium<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing,  Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kui<br>-📫 Feel free to reach me at 6@gmail.com<br>-📄 Know about my experiences Resume</p>
 
 ###
 
@@ -54,10 +54,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/kartiksharma2003" target="_blank">
+  <a href="www.linkedin.com/i3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Sharmakartik200" target="_blank">
+  <a href="https://x.com/S00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kartiksharma200/Kartiksharma200/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.ma200/output/snake.svg" alt="Snake animation" />
 
 ###
