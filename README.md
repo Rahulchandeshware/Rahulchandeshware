@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.</h3>
+<h1 align="left">👩‍💻  Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.</h1>
 
 ###
 
