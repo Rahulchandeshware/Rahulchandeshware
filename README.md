@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Bidar,karanataka<br><br>- 📚<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kui<br>-📫 Feel free to reach me at rahulchandeshware66@gmail.com<br>-📄 Know about my experiences Resume</p>
+<p align="left">I'm ... from ....Bengaluru,karanataka<br><br>- 📚<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kui<br>-📫 Feel free to reach me at rahulchandeshware66@gmail.com<br>-📄 Know about my experiences Resume</p>
 
 ###
 
