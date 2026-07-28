@@ -1,71 +1,42 @@
-<h1 align="center">Hey👋 I'm Rahul Chandeshware</h1>
+# Hey 👋 I'm Rahul Chandeshware
 
-###
+🔍 **QA Engineer (SDET)** with ~1.5 years of experience in manual and automation testing, passionate about delivering smooth, reliable software experiences through sharp bug-hunting and solid test coverage.
 
-<h5 align="left">👩‍💻  Quality Analyst passionate about delivering smooth and efficient software experiences. Specializes in automation and manual testing, with a keen eye for identifying and solving complex issues. Continuously learns and adapts to deliver high-quality solutions. Explores new tools and technologies to stay current with industry trends. Repositories showcase diverse work and expertise.</h5>
+🚀 Currently sharpening my skills across API testing, UI automation frameworks, and end-to-end BDD workflows — always exploring new tools to stay current with QA best practices.
 
-###
+📍 Based in Bengaluru, Karnataka | Originally from Bidar, Karnataka
 
-<p align="left">I'm ... from ....Bidar,karanataka<br><br>- 📚<br>- 💬 Ask me about ** Java, Javascript,  Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured,  **<br>-👩‍💻 All of my projects are available at Kui<br>-📫 Feel free to reach me at rahulchandeshware66@gmail.com<br>-📄 Know about my experiences Resume</p>
+---
 
-###
+### 💬 Ask me about
+**Manual Testing** · **Selenium (Java)** · **TestNG** · **Cypress** · **Cucumber BDD** · **Postman** · **Rest Assured** · **JIRA** · **API Testing** · **SQL**
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📂 Explore my work
+All of my projects are available on my repositories — check them out below!
 
-###
+### 📄 Resume & Contact
+- 📧 Reach me at **rahulchandeshware66@gmail.com**
+- 📄 Know more about my experience: [Resume](#)
+- 🔗 Connect with me on [LinkedIn](#)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-</div>
+---
 
-###
+## 🛠️ Language and Tools
 
-<h3 align="left">🔥   My Stats :</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-###
+## 🔥 My Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahulchandeshware&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulchandeshware&show_icons=true&theme=dark)
 
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulchandeshware&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulchandeshware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rahul-chandeshware/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/S00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.ma200/output/snake.svg" alt="Snake animation" />
-
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchandeshware&layout=compact&theme=dark)
