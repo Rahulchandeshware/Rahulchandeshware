@@ -4,8 +4,6 @@
 
 🚀 Currently sharpening my skills across API testing, UI automation frameworks, and end-to-end BDD workflows — always exploring new tools to stay current with QA best practices.
 
-📍 Based in Bengaluru, Karnataka | Originally from Bidar, Karnataka
-
 ---
 
 ### 💬 Ask me about
@@ -36,6 +34,3 @@ All of my projects are available on my repositories — check them out below!
 
 ## 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulchandeshware&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulchandeshware&layout=compact&theme=dark)
