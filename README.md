@@ -12,7 +12,7 @@
 ### 📂 Explore my work
 All of my projects are available on my repositories — check them out below!
 
-### 📄 Resume & Contact
+### 📄 Contact
 - 📧 Reach me at **rahulchandeshware66@gmail.com**
 
 
