@@ -16,8 +16,7 @@ All of my projects are available on my repositories — check them out below!
 
 ### 📄 Resume & Contact
 - 📧 Reach me at **rahulchandeshware66@gmail.com**
-- 📄 Know more about my experience: [Resume](#)
-- 🔗 Connect with me on [LinkedIn](#)
+
 
 ---
 
